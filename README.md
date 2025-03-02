@@ -4,14 +4,7 @@
 > 실패에 대한 두려움이 가득하다면, 결코 성공할 수 없다.<br>
 
 # About
-- Corefive Corp. Co-Founder, CCO(Chief Creative Officer)
-- Director of Rechive(https://rechive.kr/)
-- Robotics Engineer(Multi-pedalism, Vertical Articulated, Gripper)
-- Embedded Developer
-- Former Staff at Young Maker Network
-- Former Staff at AI Robotics KR
-- Former Staff at KakaoTalk Bot Community
-- Former Staff at JavaLab Developer Community
+- QA
 
 
 <!--
