@@ -5,7 +5,7 @@
 
 # About
 - QA
-
+- Connecspace Co., Ltd. SNS Manager
 
 <!--
 **Entekorea/entekorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
